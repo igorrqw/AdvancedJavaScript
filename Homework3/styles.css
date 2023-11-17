@@ -1,0 +1,14 @@
+.product-class{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid;
+    width: 500px;
+    border-radius: 20px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.hidden{
+    display: none
+}
